@@ -1,12 +1,12 @@
-# 안녕하세요, Heiho09입니다 👋
+# 아무거나 해보는 곳
 
 관심 주제와 공개 프로젝트를 정리했습니다. 아래 토픽을 선택하면 관련 저장소를 볼 수 있습니다.
 
-## 🤖 로보틱스와 자율주행
+## 로보틱스와 자율주행
 
 [전체 로보틱스](https://github.com/search?q=user%3AHeiho09%20topic%3Arobotics&type=repositories) · [ROS 2](https://github.com/search?q=user%3AHeiho09%20topic%3Aros2&type=repositories) · [AGV](https://github.com/search?q=user%3AHeiho09%20topic%3Aagv&type=repositories) · [Nav2](https://github.com/search?q=user%3AHeiho09%20topic%3Anav2&type=repositories) · [로봇팔](https://github.com/search?q=user%3AHeiho09%20topic%3Arobotarm&type=repositories)
 
-## 📚 학습과 실습
+## 학습과 실습
 
 [학습 저장소 전체](https://github.com/search?q=user%3AHeiho09%20topic%3Alearning&type=repositories) · [실습 저장소 전체](https://github.com/search?q=user%3AHeiho09%20topic%3Apractice&type=repositories)
 
